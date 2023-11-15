@@ -41,12 +41,4 @@ If you find my work helpful or interesting, consider buying me a coffee!
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/mani26)
 
-## Acknowledgments
-
-Give credit to any tools, frameworks, or individuals whose work you've used or found inspiration from.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
