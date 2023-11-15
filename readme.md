@@ -12,13 +12,11 @@ I'm Mani S, a passionate Electronics Engineer. This is my space on GitHub where 
 
 ## Featured Repositories
 
-### [Project Name 1](https://github.com/Mani-26/CODSOFT)
+### [Project 1](https://github.com/Mani-26/CODSOFT)
 
-A brief description of the project, its purpose, and key features.
 
-### [Project Name 2](https://github.com/Mani-26/ThoughtsIdea)
+### [Project 2](https://github.com/Mani-26/ThoughtsIdea)
 
-Another notable project with a brief overview.
 
 
 ## Skills
