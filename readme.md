@@ -6,13 +6,12 @@ I'm Mani S, a passionate Electronics Engineer. This is my space on GitHub where 
 
 ## About Me
 
-- 🌐 [Personal Website](https://mani-26.github.io/myPortfolio/): Check out my personal website for more information about me and my work.
 - 📫 How to reach me: [Email](mailto:maniinnovator26@gmail.com)
 - 😄 Pronouns: [He/Him/Mr]
 
 ## Featured Repositories
 
-### [Project 1](https://github.com/Mani-26/CODSOFT)
+### [Project 1](https://github.com/Mani-26/arduino-codes)
 
 
 ### [Project 2](https://github.com/Mani-26/ThoughtsIdea)
