@@ -9,28 +9,20 @@ I'm Mani S, a passionate Electronics Engineer. This is my space on GitHub where 
 - 📫 How to reach me: [Email](mailto:maniinnovator26@gmail.com)
 - 😄 Pronouns: [He/Him/Mr]
 
-## Featured Repositories
-
-### [Project 1](https://github.com/Mani-26/arduino-codes)
-
-
-### [Project 2](https://github.com/Mani-26/ThoughtsIdea)
-
-
 
 ## Skills
 
-- Programming Languages: Java, C.,
+- Programming Languages: Java, C, C++.
 - Web Technologies: HTML, CSS, Javascript.
+- Tech Stack: MERN.
 - Version Control: Github.
-- Other Tools: VSCode.
+- Other Tools: VSCode, Blender, Eagle.
 - Operating Systems: Windows.
 
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mani-s-26032002mani/)
-- [Facebook](https://www.facebook.com/ManiS.2603)
 
 ## Support
 
