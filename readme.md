@@ -22,7 +22,7 @@ I'm Mani S, a passionate Electronics Engineer. This is my space on GitHub where 
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mani-s-26032002mani/)
+- [LinkedIn](https://www.linkedin.com/in/manis26/)
 
 ## Support
 
