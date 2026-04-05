@@ -16,13 +16,6 @@
 
 ---
 
-### 📊 Languages I Frequently Use for My Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-26&show_icons=true&locale=en&layout=compact" alt="mani-26" />
-</p>
-
----
-
 ## 🛠️ Skills
 
 - **Programming Languages:**  
@@ -67,12 +60,6 @@
 ## 🌐 Connect with Me
 - 📫 [Email](mailto:maniinnovator26@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/manis26/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mani-26&show_icons=true&theme=radical" alt="Mani's GitHub Stats" />
-</p>
 
 ---
 
